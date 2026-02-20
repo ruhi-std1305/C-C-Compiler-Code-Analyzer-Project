@@ -66,7 +66,9 @@ This project analyzes simplified C/C++ code to detect errors, build a symbol tab
 - Division by zero case  
 - Correct input program
   
-  Sample input:
+ ##  Sample Input (Test Case)
+
+```c
 int x
 y = 5;
 int x;
