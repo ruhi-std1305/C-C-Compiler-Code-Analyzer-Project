@@ -67,13 +67,13 @@ This project analyzes simplified C/C++ code to detect errors, build a symbol tab
 - Correct input program
   
   Sample input:
-  int x
-  y = 5;
-  int x;
-  z = x / 0;
-  a = b + 3
-  #
-  
+int x
+y = 5;
+int x;
+z = x / 0;
+a = b + 3
+#
+
 ---
 
 ##  Limitations
